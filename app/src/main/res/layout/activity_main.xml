@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="@dimen/my_padding_value"
+            android:text="@string/welcome"
+            android:textColor="@color/colorDark" />
+
+        <Button
+            android:id="@+id/theButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/my_padding_value"
+            android:text="@string/click_to_start"
+            android:textColor="@color/colorDark" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/my_padding_value"
+            android:text="@string/fast"
+            android:textColor="@color/colorDark"
+            android:textSize="@dimen/my_padding_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="@dimen/my_padding_value"
+            android:paddingStart="@dimen/my_padding_value"
+            android:text="@string/first"
+            android:textColor="@color/colorDark"
+            android:textSize="@dimen/my_padding_font" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/my_padding_value"
+            android:src="@drawable/screenshot_2018_09_17_03_19_43" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="@dimen/my_padding_value"
+            android:paddingStart="@dimen/my_padding_value"
+            android:text="@string/second"
+            android:textColor="@color/colorDark"
+            android:textSize="@dimen/my_padding_font" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/my_padding_value"
+            android:src="@drawable/screenshot_2018_09_17_03_19_53" />
+
+        <Button
+            android:id="@+id/theButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:padding="@dimen/my_padding_value"
+            android:text="@string/click_to_start"
+            android:textColor="@color/colorDark" />
+
+    </LinearLayout>
+</ScrollView>

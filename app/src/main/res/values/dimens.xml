@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="my_padding_value">16dp</dimen>
+    <dimen name="my_padding_size">28sp</dimen>
+    <dimen name="my_padding_font">14sp</dimen>
+</resources>

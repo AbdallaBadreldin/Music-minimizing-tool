@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minimize music</string>
+    <string name="main_string_for_notifiction">Hide</string>
+    <string name="open_main_activity">Open main app</string>
+    <string name="rate">Rate me</string>
+    <string name="big_string">Minimizing tool</string>
+    <string name="small_string">tab to minimize</string>
+    <string name="click_to_start">touch to start</string>
+    <string name="welcome">Weclome</string>
+    <string name="fast">fast tutorial</string>
+    <string name="first">first start music:</string>
+    <string name="second">second hit notification to minimize:</string>
+</resources>
