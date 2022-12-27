@@ -18,7 +18,7 @@ It's very simple to use.
 
 3) The notification will be like this:
 
-![Screenshot_2018-09-17-03-19-26](https://user-images.githubusercontent.com/26011530/209647368-6a459b39-fc02-4942-9db6-93e3d3dcb40a.png)
+![Screenshot_2018-09-17-03-19-53](https://user-images.githubusercontent.com/26011530/209647360-22d65abb-abec-4e9b-a7b1-32471309dda1.png)
 
 
 Finally enjoy your music in background ;)
